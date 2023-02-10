@@ -1,0 +1,4 @@
+variables:
+- team: srisona-cg-declarativepipeline
+- admin-user: srisor-admin
+- manager-user: srisor
